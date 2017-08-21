@@ -1,0 +1,17 @@
+#qt_about_author_toolbar.quicktags-toolbar{
+	background: none !important;
+	float: right;
+}
+.mata-th{
+	float: left;
+	position: relative;
+	padding-bottom: 5px;
+}
+.mata-th label{
+	
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.4;
+    
+
+}
